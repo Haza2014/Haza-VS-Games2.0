@@ -1,1 +1,143 @@
-
+@media only screen and (max-width: 320px) {
+.head_content h1{
+	background:none;
+	line-height:0px;
+	padding-left:0px;
+	font-size:24px;
+}
+header{
+	min-height:250px;
+}
+.header_two_left h4{
+	line-height:20px;
+	background:none;
+	margin-left:0px;
+	text-align:center;
+	padding-top:25px;
+}	
+.header_two_right a h4{
+	line-height:0px;
+	padding-bottom:25px;
+	padding-top:25px;
+	text-align:center;
+	font-size:15px;
+	margin-left:80px !important;
+}
+.Slider_top a h3{
+	font-size:16px;
+	padding-bottom:25px;
+}
+.button_one{
+	margin-bottom:30px;
+}
+.button_bannar{
+	margin-bottom:30px;
+}
+footer p{
+	line-height:0px;
+	padding-top:50px;
+	font-size:14px;
+}
+}
+@media only screen and (min-width:321px) and (max-width:480px){
+.logo{
+	margin-left:100px;
+}
+header{
+	min-height:250px;
+}
+.head_content h1{
+	background:none;
+	line-height:0px;
+	padding-left:0px;
+	font-size:28px;
+	text-align:center;
+}
+.header_two_left h4{
+	background:none;
+	text-align:center;
+}
+.header_two_right a h4{
+	line-height:0px;
+	padding-bottom:35px;
+	padding-top:25px;
+	text-align:center;
+	
+}	
+.Slider_top a h3{
+	padding-bottom:25px;
+}
+.button_one{
+	margin-bottom:30px;
+}
+.button_bannar{
+	margin-bottom:30px;
+}
+footer p{
+	line-height:0px;
+	padding-top:50px;
+	font-size:16px;
+}
+}
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:portrait){
+	.logo{
+	margin-left:200px;
+}
+.head_content h1{
+	background:none;
+	line-height:0px;
+	padding-left:0px;
+	font-size:34px;
+	text-align:center;
+}
+header{
+	min-height:250px;
+}
+.header_two_left h4{
+	background:none;
+	text-align:center;
+}
+.header_two_right a h4{
+	line-height:0px;
+	padding-bottom:35px;
+	padding-top:25px;
+	text-align:center;
+	
+}
+	.slider .thumbnail {
+    display: none;
+    
+}
+.Slider_top a h3{
+	padding-bottom:25px;
+}
+.button_one{
+	margin-bottom:30px;
+}
+.button_bannar{
+	margin-bottom:60px;
+}
+footer p{
+	line-height:0px;
+	padding-top:50px;
+	font-size:16px;
+}
+}
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:landscape){
+	.head_content h1{
+	line-height:150px;
+	padding-left:0px;
+	font-size:34px;
+	text-align:center;
+}
+.Slider_top a h3{
+	padding-bottom:25px;
+}
+.button_one{
+	margin-bottom:30px;
+}
+.bannar_left h1{
+	line-height:50px;
+	padding-top:25px;
+}
+}
